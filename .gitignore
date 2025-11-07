@@ -1,0 +1,17 @@
+﻿# Binarios de Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Build
+/bin
+/pkg
+
+# Tests
+*.test
+
+# Editores
+.vscode/
+.idea/
